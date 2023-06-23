@@ -1,4 +1,4 @@
-name: Pac-Man
+name: 1minute_MacOS_12core
 # Pac-Man is GitHub Actions workflow that generates usage of all existing metered products.
 # The usage is attributed to the owner of the test repository where Pac-Man is run.
 #
